@@ -17,3 +17,14 @@ describe('Sum funcion', () => {
         expect(sum(0.1, 0.2)).toBeCloseTo(0.3);
     });
 });
+
+describe('Native null function', () => {
+    test('should return false value null', () => {
+        expect(nativeNull()).toBe(null);
+        expect(nativeNull()).toBeNull();
+        expect(nativeNull()).toBeFalsy();   //undefined, null, 0, ''
+        expect(nativeNull()).toBeDefined();
+        expect(nativeNull()).not.toBeTruthy();
+        expect(nativeNull()).not.toBeUndefined();
+    });
+});

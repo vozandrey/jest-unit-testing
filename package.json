@@ -24,5 +24,8 @@
   "homepage": "https://github.com/vozandrey/jest-unit-testing#readme",
   "devDependencies": {
     "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.0"
   }
 }

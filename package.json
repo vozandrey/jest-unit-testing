@@ -1,0 +1,25 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vozandrey/jest-unit-testing.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "unit",
+    "testing"
+  ],
+  "author": "vozandrey <vozandrey2001@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vozandrey/jest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/vozandrey/jest-unit-testing#readme"
+}

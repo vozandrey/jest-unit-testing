@@ -26,6 +26,7 @@
     "jest": "^26.0.1"
   },
   "dependencies": {
-    "@types/jest": "^26.0.0"
+    "@types/jest": "^26.0.0",
+    "axios": "^0.19.2"
   }
 }

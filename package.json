@@ -4,7 +4,7 @@
   "description": "Jest intro",
   "main": "index.js",
   "scripts": {
-    "test": "npm jest"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/vozandrey/jest-unit-testing/issues"
   },
-  "homepage": "https://github.com/vozandrey/jest-unit-testing#readme"
+  "homepage": "https://github.com/vozandrey/jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
 }

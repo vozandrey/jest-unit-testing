@@ -104,3 +104,9 @@ dist
 .tern-port
 
 package-lock.json
+.idea/jest-unit-testing.iml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
